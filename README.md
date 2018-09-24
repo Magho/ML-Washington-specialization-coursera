@@ -36,7 +36,7 @@
         - Describe a regression model using multiple features
         - Describe other applications where regression is useful
 
-    - [Note - regression-intro-annotated](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/2-%20regression-intro-annotated.pdf)
+    - [Note - regression-intro](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/2-%20regression-intro-annotated.pdf)
 
   - [Week 3 - Classification: Analyzing Sentiment](https://github.com/Magho/ML-Washington-specialization-coursera/tree/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/projects/Week%203)
     
@@ -55,7 +55,7 @@
         - Use class probability to express degree
         of confidence in prediction
       
-    - [Note - classification-annotated](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/3-%20%20classification-annotated.pdf)
+    - [Note - classification](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/3-%20%20classification-annotated.pdf)
 
   - [Week 4 - Clustering and Similarity: Retrieving Documents](https://github.com/Magho/ML-Washington-specialization-coursera/tree/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/projects/Week%204)
     
@@ -75,7 +75,7 @@
       come...)
       - Describe other applications of clustering
       
-    - [Note - clustering-intro-annotated](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/4%20-%20clustering-intro-annotated.pdf)
+    - [Note - clustering-intro](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/4%20-%20clustering-intro-annotated.pdf)
     
   - [Week 5 - Recommending Products](https://github.com/Magho/ML-Washington-specialization-coursera/tree/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/projects/Week%205)
     
@@ -93,7 +93,7 @@
         and recall
         - Use AUC or precision-at-k to select amongst candidate algorithms
 
-    - [Note - recommenders-intro-annotated](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/5%20-%20recommenders-intro-annotated.pdf)
+    - [Note - recommenders-intro](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/5%20-%20recommenders-intro-annotated.pdf)
     
   - [Week 6 - Deep Learning: Searching for Images](https://github.com/Magho/ML-Washington-specialization-coursera/tree/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/projects/Week%206)
     
@@ -112,7 +112,7 @@
         another domain
         - Build an image retrieval tool using deep features
 
-    - [Note 1 - deeplearning-annotated](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/6%20-%20deeplearning-annotated.pdf)
+    - [Note 1 - deeplearning](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/6%20-%20deeplearning-annotated.pdf)
     
     - [Note 2 - closing](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/1-%20Machine%20Learning%20Foundations:%20A%20Case%20Study%20Approach/lectures/7%20-%20closing.pdf)
     
@@ -176,7 +176,7 @@
         - parameters (e.g., model complexity)
         - Describe overall regression workflow
       
-    - [Note - assessing performance - annotated](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/2-%20Regression/lectures/3-assessing%20performance%20-%20annotated.pdf)
+    - [Note - assessing performance](https://github.com/Magho/ML-Washington-specialization-coursera/blob/master/2-%20Regression/lectures/3-assessing%20performance%20-%20annotated.pdf)
 
   - [Week 4 - Ridge Regression](https://github.com/Magho/ML-Washington-specialization-coursera/tree/master/2-%20Regression/projects/week%204)
     
