@@ -6,8 +6,6 @@
    - [Carlos Guestrin](https://www.coursera.org/instructor/guestrin)
    - [Emily Fox](https://www.coursera.org/instructor/~14032411)
 
-This repo contains all the lecture notes and supplemental notes for this specialization. I am using it as a reminder for me in case I forgot something, so instead of go through the whole videos again, I will just check it first here ;)
-
 ## Goals
 - introduction to the exciting, high-demand field of Machine Learning
 - gain applied experience in major areas of Machine Learning including Prediction, Classification, Clustering, and Information Retrieval
